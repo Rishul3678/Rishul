@@ -1,0 +1,76 @@
+<html>
+<head>
+<title> Forms</title>
+</head>
+
+<body background="../Coding/1.jpg"/>
+<html>
+<head>
+<title> Forms</title>
+</head>
+
+<body>
+
+ <form action="table.html" >
+
+  Customer Name</TD> <TD><input type="text"  id="n1"/></TD>
+
+
+ <TR>
+ <TD>Last Name</TD> <TD><input type="text"  id="n2"/></TD>
+ </TR>
+ 
+  <TR>
+ <TD>Password</TD> <TD><input type="password" id="p1"/></TD>
+ </TR>
+ 
+  <TR>
+ <TD colspan="2">Qualifications</TD> 
+ </TR>
+ 
+ <TR>
+ <TD><input type="checkbox" id="c1" value="HIGH SHOOL" /> High School
+ <br />
+ <input type="checkbox" id="c2" value="HIGH SHOOL" /> Senior Secondary <br />
+ <input type="checkbox" id="c3" value="HIGH SHOOL" /> Bachelor's Degree <br />
+ <input type="checkbox" id="c4" value="HIGH SHOOL" /> Masters
+ </TD>
+ </TR>
+ <TR>
+ <TD colspan="2">Select City</TD> 
+ </TR>
+ <TR>
+ <TD colspan="2"><select>
+ <option value="Select" id="od">----Select----</option>
+ <option value="delhi" id="o1">Delhi</option>
+  <option value="Chennai" id="o2">Chennai</option>
+   <option value="Mumbai" id="o3">Mumbai</option>
+    <option value="bhopal" id="o4">Bhopal</option>
+ </select></TD> 
+ </TR>
+ <TR>
+ <TD colspan="2">Select Gender</TD> 
+ </TR>
+
+<TR>
+ <TD colspan="2"><input type="radio" name="n1" id="r1" value="Male">Male
+
+<input type="radio" name="n1" id="r2" value="FeMale">Female
+
+<input type="radio" name="n1" id="r3" value="Prefer Not to Say">Prefer Not to Say</TD> 
+ </TR>
+</table>
+<br><br> 
+<table  align="left">
+ <TR>
+ <TD colspan="2" align="center"><input type="submit" value="submit" name="Submit"></TD> 
+ </TR>
+ </table>
+ 
+ </form>
+
+</body>
+</html>
+
+</body>
+</html>

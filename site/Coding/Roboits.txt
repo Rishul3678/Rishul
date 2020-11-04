@@ -1,0 +1,15 @@
+<html>
+<center>
+<head>
+<title>Roboits Shopping Store</title>
+</head>
+
+<body>
+<font face="Matura MT Script Capitals" size = 8 color="Black">
+Welcome to Roboits Shopping Store
+</font>
+</center>
+
+</body>
+<center>
+</html>

@@ -1,0 +1,6 @@
+<html>
+<head>
+<title> Forms</title>
+</head>
+
+<body backgrounds="images/MR COOOL.png">
